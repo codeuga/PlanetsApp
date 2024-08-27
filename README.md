@@ -1,2 +1,1 @@
-# Planets App
 
